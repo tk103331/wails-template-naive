@@ -1,8 +1,11 @@
 # README
 
+![Wails and NaiveUI](./wails-naive.png)
+
+
 ## About
 
-A template for Wails with NavieUI.
+A template for [Wails](https://wails.io/) with [NavieUI](https://www.naiveui.com/).
 
 
 ## Creating the Projekt
