@@ -1,0 +1,22 @@
+{
+  "name": "{{.ProjectName}}",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "naive-ui": "^2.32.1",
+    "vfonts": "^0.0.3",
+    "vite": "^2.9.9"
+  },
+  "keywords": [],
+  "author": "{{.AuthorName}}"
+}
