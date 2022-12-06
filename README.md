@@ -12,7 +12,7 @@ A template for [Wails](https://wails.io/) with [NavieUI](https://www.naiveui.com
 Create a new Application with the Wails CLI and this template:
 
 ```
-wails init -n projektname -t https://github.com/tk103331/wails-naive-template
+wails init -n projectname -t https://github.com/tk103331/wails-template-naive
 ```
 
 ## Running the Application in Developer Mode
